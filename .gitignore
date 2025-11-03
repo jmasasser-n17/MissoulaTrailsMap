@@ -1,0 +1,46 @@
+# ==========================
+# Node.js / JavaScript
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Build folders
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# ==========================
+# Python (optional)
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.ipynb_checkpoints/
+
+# ==========================
+# OS / IDE files
+# ==========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ==========================
+# Map / data files (optional)
+# ==========================
+# You may want to track GeoJSON, GPX, or output files, but ignore temp processing files
+tmp/
+*.tmp
